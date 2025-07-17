@@ -3,7 +3,7 @@ The official repository for Unsupervised Visible-Infrared Person Re-identificati
 
 ## Our framework
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77cb2033-bf38-4c25-9847-32bac577954f" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e61632e4-6c8d-489f-98e3-f023181daa77" width="600"/>
 </p>
 
 ## Highlight
