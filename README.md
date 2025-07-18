@@ -1,6 +1,5 @@
 # Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings
-The official repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings (ICCV 2025). Code is being organized and will be made public soon.
-
+The official repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings (ICCV 2025).
 ## Our framework
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e61632e4-6c8d-489f-98e3-f023181daa77" width="600"/>
