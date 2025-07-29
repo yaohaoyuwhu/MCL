@@ -1,9 +1,5 @@
 # Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings
 The official repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings (ICCV 2025).
-## Our framework
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e61632e4-6c8d-489f-98e3-f023181daa77" width="600"/>
-</p>
 
 ## Highlight
 - We formally characterize the prevalent unpaired settings encountered in real-world scenarios and introduce the first public visible-infrared pedestrian benchmarks under such conditions. To our knowledge, this work marks the inaugural exploration of unsupervised scenarios featuring cross-modal identity mismatches.
